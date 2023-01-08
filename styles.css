@@ -107,6 +107,7 @@
   display: flex;
   width: 100%;
   padding: 2rem;
+  align-items: center;
 }
 .sec-home .home-cta {
   flex: 1;
@@ -136,10 +137,9 @@
   font-size: 3rem;
 }
 .sec-home .home-img {
-  margin-left: 0rem;
-  margin-top: 1rem;
-  max-width: 60rem;
-  max-height: 120rem;
+ 
+  width: 45rem;
+  
 }
 
 .sec-feature {
