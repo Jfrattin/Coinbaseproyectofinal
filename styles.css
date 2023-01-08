@@ -1,3 +1,4 @@
+@media only screen and (min-width: 1000px){
 .btn-main, .btn-main-s, .btn-main-s:hover, .btn-main:hover {
   background-color: #0174F6;
   color: white;
@@ -284,5 +285,5 @@
 .sec-footer-cta .footer-cta .cta-description {
   font-size: 1.2rem;
 }
-
+}
 /*# sourceMappingURL=styles.css.map */
